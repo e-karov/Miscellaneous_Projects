@@ -1,0 +1,11 @@
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\obj\Debug\netcoreapp2.1\Einsteins_Riddle.csprojAssemblyReference.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\obj\Debug\netcoreapp2.1\Einsteins_Riddle.csproj.CoreCompileInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\obj\Debug\netcoreapp2.1\Einsteins_Riddle.AssemblyInfoInputs.cache
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\obj\Debug\netcoreapp2.1\Einsteins_Riddle.AssemblyInfo.cs
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\bin\Debug\netcoreapp2.1\Einsteins_Riddle.deps.json
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\bin\Debug\netcoreapp2.1\Einsteins_Riddle.runtimeconfig.json
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\bin\Debug\netcoreapp2.1\Einsteins_Riddle.runtimeconfig.dev.json
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\bin\Debug\netcoreapp2.1\Einsteins_Riddle.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\bin\Debug\netcoreapp2.1\Einsteins_Riddle.pdb
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\obj\Debug\netcoreapp2.1\Einsteins_Riddle.dll
+D:\Repos\Tech_Fundamentals_Jan2019\Lab-Einsteins_Riddle\Einsteins_Riddle\obj\Debug\netcoreapp2.1\Einsteins_Riddle.pdb
